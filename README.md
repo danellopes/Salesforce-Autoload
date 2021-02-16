@@ -50,4 +50,4 @@ This is more like a proof of concept, and i'm working on a much better tools tha
 DISCLAIMER
 ----------
 
-This tool is not in any way endorsed by Salesforce, it's just a project that i did to help me on day-to-day tasks, use it at your on risks.
+This tool is not in any way endorsed by Salesforce, it's just a project that i did to help me on day-to-day tasks, use it at your own risks.
